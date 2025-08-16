@@ -13,5 +13,5 @@ CODE REVIEW BELOW:
 https://github.com/Keisha7/ePortfolio/blob/main/code-review.md
 
 
-FFIRST ENHANCEMENT SOFTWARE DESIGN:
+FIRST ENHANCEMENT SOFTWARE DESIGN:
 https://github.com/Keisha7/ePortfolio/tree/main/app_admin
