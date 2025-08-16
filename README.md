@@ -15,3 +15,6 @@ https://github.com/Keisha7/ePortfolio/blob/main/code-review.md
 
 FIRST ENHANCEMENT SOFTWARE DESIGN:
 https://github.com/Keisha7/ePortfolio/tree/main/app_admin
+
+ALGORITHM AND DATA STRUCTURE ENHANCEMENT:
+https://github.com/Keisha7/ePortfolio/blob/main/algorithms.md
