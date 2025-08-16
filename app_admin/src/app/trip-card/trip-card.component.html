@@ -1,0 +1,19 @@
+<div class="card h-100">
+  <img
+    [src]="'/assets/images/' + trip.image"
+    [alt]="trip.name"
+    class="card-img-top"
+  >
+  <div class="card-body">
+    <h5 class="card-title">{{ trip.name }}</h5>
+    <h6 class="card-subtitle mb-2 text-muted">
+      {{ trip.resort }}, {{ trip.length }}
+    </h6>
+    <p class="card-text">{{ trip.description }}</p>
+  </div>
+  <div class="card-footer">
+    <small class="text-muted">
+      {{ trip.perPerson | currency:'USD':'symbol' }} per person
+    </small>
+  </div>
+</div>
