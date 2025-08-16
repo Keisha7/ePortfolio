@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Code Review"
+permalink: https://keisha7.github.io/code-review.html
 ---
 
 # Code Review Video
