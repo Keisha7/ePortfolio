@@ -8,10 +8,10 @@ It showcases my skills in **software design & engineering**, **algorithms & data
 
 
 
-Code Review Below:
+CODE REVIEW BELOW:
 
 https://github.com/Keisha7/ePortfolio/blob/main/code-review.md
 
 
-First Enhancement: Software Design
+FFIRST ENHANCEMENT SOFTWARE DESIGN:
 https://github.com/Keisha7/ePortfolio/tree/main/app_admin
