@@ -1,0 +1,12 @@
+<div class="container mt-5">
+  <h1 class="mb-4">Travlr Getaways Admin!</h1>
+
+  <div class="row">
+    <div
+      class="col-lg-4 col-md-6 mb-4"
+      *ngFor="let trip of trips"
+    >
+      <app-trip-card [trip]="trip"></app-trip-card>
+    </div>
+  </div>
+</div>
